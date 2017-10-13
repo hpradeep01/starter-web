@@ -20,4 +20,4 @@ Something here
 Contribute this way
 
 ### Copyright
-Copyright notice
+Copyright notice: This is the notice
