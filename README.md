@@ -17,7 +17,7 @@ Deployment Notes
 Something here
 
 ## How to Contribute
-Contribute this way
+Contribute this way with pull requests
 
 ### Copyright
 Copyright notice: This is the notice
