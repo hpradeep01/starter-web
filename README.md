@@ -18,3 +18,6 @@ Something here
 
 ## How to Contribute
 Contribute this way
+
+### Copyright
+Copyright notice
