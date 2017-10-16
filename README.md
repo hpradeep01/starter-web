@@ -20,4 +20,4 @@ Something here
 Contribute this way with pull requests
 
 ### Copyright
-Copyright notice: This is the notice
+Copyright notice: This is the notice. We shall notice the notice.
