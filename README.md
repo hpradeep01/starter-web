@@ -9,15 +9,14 @@ This is an example for a Website, with changes to the feature branch
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This website has plenty of files for demos
 
 ## Deployment
 
-Deployment Notes
-Something here
+Deployment Notes - For all of Deployment
 
 ## How to Contribute
 Contribute this way with pull requests
 
 ### Copyright
-Copyright notice: This is the notice. We shall notice the notice.
+Copyright notice: All rights reserverd 2017.
