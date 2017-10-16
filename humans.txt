@@ -3,13 +3,11 @@
 
 # TEAM
 
-    TP
-	TPTP
-	ERWRWER
+   Smart Development
 
 # THANKS
 
-	Thanks to everybody !!
+	{name}
 
 # TECHNOLOGY COLOPHON
 
