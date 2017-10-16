@@ -5,7 +5,7 @@ Sample project
 
 ## Introduction
 
-This is an example for a Website
+This is an example for a Website, with changes to the feature branch
 
 ## Purpose
 
