@@ -5,7 +5,7 @@ Sample project
 
 ## Introduction
 
-This is an example
+This is an example for a Website
 
 ## Purpose
 
